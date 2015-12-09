@@ -4,7 +4,9 @@
 {{! The big featured header }}
 <header class="main-header {{#if @blog.cover}}" style="background-image: url({{@blog.cover}}){{else}}no-cover{{/if}}">
     <nav class="main-nav overlay clearfix">
-        <a href="https://www.facebook.com/MouseGuests"><img src="images/fb.png" border="0"/></a>
+        {{#if socialnetwork.facebook}}
+        <a href="{{socialnetwork.facebook}}"><img src="images/fb.png" border="0"/></a>
+        {{/if}}
     <!--
         {{#if @blog.logo}}<a class="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
     -->
