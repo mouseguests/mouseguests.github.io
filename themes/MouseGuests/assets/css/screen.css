@@ -460,6 +460,7 @@ margin on the iframe, cause it breaks stuff. */
 .vertical {
     display: table-cell;
     vertical-align: middle;
+    background-color: #16275A;
 }
 
 
@@ -475,7 +476,7 @@ margin on the iframe, cause it breaks stuff. */
     height: 100%;
     margin-bottom: 5rem;
     text-align: center;
-    background: #16275A no-repeat center center;
+    background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
 }
