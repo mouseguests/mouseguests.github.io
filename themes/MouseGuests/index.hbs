@@ -4,17 +4,6 @@
 {{! The big featured header }}
 <header class="main-header {{#if @blog.cover}}" style="background-image: url({{@blog.cover}}){{else}}no-cover{{/if}}">
     <nav class="main-nav overlay clearfix">
-    <!--
-        {{#if @blog.logo}}<a class="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
-    -->
-        <!-- <a class="subscribe-button icon-feed" href="{{@blog.url}}/rss/">Subscribe</a> -->
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <img src="{{@blog.logo}}" alt="MouseGuests"/>
-        </div>
-    </div>
-    <div style="text-align:right;">
         {{#if socialnetwork.facebook}}
         <a href="{{socialnetwork.facebook}}"><img src="images/fb.png" border="0"/></a>
         {{/if}}
@@ -24,6 +13,11 @@
         {{#if socialnetwork.instagram}}
         <a href="{{socialnetwork.instagram}}"><img src="images/igram.png" border="0"/></a>
         {{/if}}    
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <img src="{{@blog.logo}}" alt="MouseGuests"/>
+        </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>

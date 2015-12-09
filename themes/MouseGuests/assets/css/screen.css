@@ -489,6 +489,8 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     padding: 35px 40px;
     margin: 0 0 30px 0;
+    text-align: right;
+    float: right;
 }
 
 .main-nav a {
