@@ -482,6 +482,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .main-header .inner {
+    padding-top: 15px;
     width: 80%;
 }
 
