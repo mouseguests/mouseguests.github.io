@@ -1,8 +1,8 @@
 = Same-day reservations to be available for Skipper Canteen
 :hp-tags: News, Disney World, Dining, Magic Kingdom
-:hp-cover: SkipperCanteen.jpg
+:hp-cover: covers/SkipperCanteen600.jpg
 
-image::covers/SkipperCanteen.jpg[]
+image::covers/SkipperCanteen600.jpg[]
 
 The Jungle Navigation Company's Skipper Canteen opened in late December, blending a unique dining experience with the fun (and corny jokes) of the Jungle Cruise. Unlike other table service restaurants in Disney World, however, Skipper Canteen has not been taking reservations and instead taking walk up guests as patrons. That changes tomorrow...
 
