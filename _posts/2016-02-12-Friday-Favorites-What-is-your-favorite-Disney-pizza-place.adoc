@@ -1,6 +1,6 @@
 = Friday Favorites! What is your favorite Disney pizza place?
 :published-at: 2016-02-12
-:hb-tags: Friday Favorites, Disney World, Disneyland, Dining
+:hp-tags: Friday Favorites, Disney World, Disneyland, Dining
 
 image::covers/FF_Pizza_orig.png[]
 
