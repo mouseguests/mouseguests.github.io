@@ -1,6 +1,6 @@
 = Mickey's Soundsational Parade Live Stream Event
 :published_at: 2016-02-17
-:hb-tags: News, Disneyland
+:hp-tags: News, Disneyland
 
 _"Come on, everybody! Let's do this! Here we go!" - Mickey Mouse, Mickey's Soundsational Parade_
 
