@@ -2,7 +2,7 @@
 :published-at: 2016-02-12
 :hp-tags: Friday Favorites, Disney World, Disneyland, Dining
 
-image::covers/FF_Pizza_orig.png[]
+image::covers/FF_Pizza_orig.png[caption="Via Napoli Ristorante e Pizzeria in Epcot"]
 
 This past Tuesday was National Pizza Day, which got us to wondering: What is your favorite place in Walt Disney World or Disneyland to get a slice or two of pizza?
 
