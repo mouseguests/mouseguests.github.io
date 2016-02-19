@@ -1,6 +1,6 @@
-= Friday Favorites! What is your favorite Disney queue?
+= Friday Favorites! What is your favorite Disney attraction queue?
 :published-at: 2016-02-19
-:hp-tags: Friday Favorites, Disney World, Disneyland, Queues
+:hp-tags: Friday Favorites, Disney World, Disneyland, Lines
 
 image::covers/FF_Queues.png[caption="Disney Queues"]
 
