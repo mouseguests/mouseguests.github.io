@@ -1,5 +1,5 @@
 = Our thoughts on Wonderful World of Disney: Disneyland 60
-:hp-tags: Disneyland, Review
+:hp-tags: Disneyland, TV, Disneyland 60, Review
 
 image::covers/wwod_d60.jpg[caption="Wonderful World of Disney: Disneyland 60"]
 
