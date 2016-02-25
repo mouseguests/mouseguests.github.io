@@ -1,7 +1,7 @@
 = Luigi's Rollickin' Roadsters to open on March 7
 :hp-tags: Disneyland, News, Disney California Adventure
 
-:image::covers/Luigis.jpg[caption="Luigi's Casa Della Tires in Cars Land"]
+image::covers/Luigis.jpg[caption="Luigi's Casa Della Tires in Cars Land"]
 
 Disney is reporting that Luigi and Guido are returning from their trip to Italy and reopening Casa Della Tires in Disney California Adventure's Cars Land. When it reopens on March 7th, so will _Luigi's Rollickin' Roadsters_, a trackless family ride where each car will have it's own unique "dance" so that no two rides will be the same.
 
