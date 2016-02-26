@@ -1,6 +1,8 @@
 = Demand pricing expected at Disney World and Disneyland
 :hp-tags: Disney World, Disneyland, Tickets
 
+image::covers/DL_TicketBooth.jpg[caption="Disneyland Ticket Booth"]
+
 If you're thinking about going to Disney World or Disneyland this year, you should consider getting your tickets _NOW_. It's been rumored for quite awhile and today we've heard from several sources that Disney will introduce demand pricing, based on expected crowd levels, very soon (possibly this weekend).
 
 The idea is that there are times of the year that the parks are busier than other times. During those times, with demand high, admission prices will be higher than on slower days. This is a good-news/bad-news proposition for guests. In theory, it may help even out the crowds, making some of the busier days less busy (while making some of the slower days busier). But it also means that if you want to visit Disney on a busy day, it may cost you more.
