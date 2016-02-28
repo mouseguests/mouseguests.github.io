@@ -5,14 +5,15 @@
 <header class="main-header {{#if @blog.cover}}" style="background-image: url({{@blog.cover}}){{else}}no-cover{{/if}}">
     <nav class="main-nav overlay clearfix">
         {{#if socialnetwork.facebook}}
-        <a href="{{socialnetwork.facebook}}"><img src="/images/fb.png" alt="Like MouseGuests on Facebook" border="0"/></a>
+        <a href="{{socialnetwork.facebook}}"><img src="/images/fb.png" alt="MouseGuests on Facebook" border="0"/></a>
         {{/if}}
         {{#if socialnetwork.twitter}}
-        <a href="{{socialnetwork.twitter}}"><img src="/images/tw.png" border="0"/></a>
+        <a href="{{socialnetwork.twitter}}"><img src="/images/tw.png" border="0" alt="MouseGuests on Twitter"/></a>
         {{/if}}    
         {{#if socialnetwork.instagram}}
-        <a href="{{socialnetwork.instagram}}"><img src="/images/igram.png" border="0"/></a>
+        <a href="{{socialnetwork.instagram}}"><img src="/images/igram.png" border="0" alt="MouseGuests on Instagram"/></a>
         {{/if}}    
+	<a href="http://www.mouseguests.com/rss"><img src="/images.rss.png" border="0" alt="RSS Feed"/></a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
