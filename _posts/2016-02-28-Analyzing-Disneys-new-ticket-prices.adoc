@@ -62,6 +62,28 @@ To give you an idea of how this compares to multi-day prices before the price in
 
 What's even more economical, it seems, is that if you buy multi-day tickets as part of a resort package (e.g., you stay at a Disney resort on property), the prices are even less expensive. A cursory review suggests that multi-day tickets with a resort package have not gone up at all.
 
-As for the effect on Disneyland prices, we know nothing more than we knew yesterday. At the moment, Disneyland's website is showing a picture of the 7 Dwarfs and a statement of "We're Working on It" when trying to view ticket prices.
+As for the effect on Disneyland prices, 1-day tickets will be priced at $95 for Value days, $105 for Regular days, and $119 for Peak days. Multi-day adult tickets are priced as follows (before tax):
+
+[cols="3*", options="header"] 
+|===
+|Days
+|w/o Park Hpper
+|w/Park Hopper
+
+|2
+|$195.00
+|$235.00
+
+|3
+|$255.00
+|$295.00
+
+|4
+|$280.00
+|$320.00
+
+|===
+
+This makes the cheapest per-day price point for a Disneyland ticket $70 for a 4-day ticket without Park Hopper.
 
 How do you feel about seasonal pricing? Do you think it will spread the crowds out more? Would you be willing to pay the Peak day prices for a single-day ticket? Or does it not matter to you because you'll only ever buy multi-day tickets? Leave a comment below and let's discuss it!
