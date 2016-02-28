@@ -64,7 +64,7 @@ new File('2016').eachFileRecurse(FileType.FILES) { File post ->
 
 feed.entries = entries
 
-Writer writer = new FileWriter('rss');
+Writer writer = new FileWriter('feed.rss');
 SyndFeedOutput output = new SyndFeedOutput()
 output.output(feed,writer)
 writer.close()
