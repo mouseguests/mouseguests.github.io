@@ -1,0 +1,62 @@
+= Analyzing Disney's new ticket prices
+:hp-tags: Disney World, Disneyland, Tickets, News
+
+image::covers/DL_TicketBooth.jpg[caption="Disneyland Ticket Booth"]
+
+Disney's new ticket prices take effect today, including seasonal pricing for 1-day tickets. What does it mean and how will it impact your pocketbook when you buy tickets?
+
+As we reported yesterday, the price for 1-day tickets will vary, depending on when you go, what park(s) you want to visit, and whether or not you buy the Park Hopper option. Suppose you want to go to the Magic Kingdom today. Today is considered a "Value" day, so the price of a 1-day ticket to the Magic Kingdom will be $105. If, however, you want to visit the Magic Kingdom next Sunday, which is a "Regular" day, the price goes up to $110. And most of the later portion of March is categorized as a "Peak" day, taking the price up to $124.
+
+On the other hand, should you want to visit Epcot, Hollywood Studios, or Animal Kingdom today, the price will be $97. Next Sunday it will be $102. And later in March it will go up to $114. 
+
+If you want to be flexible and get the Park Hopper option, Value days will cost you $155, Regular days will be $160, and Peak days will ring up at $164, per 1-day ticket.
+
+But if you're going to visit the parks for more than one day, then multi-day tickets are more economical and are not subject to seasonal pricing. 
+
+[cols="3*", options="header"] 
+|===
+|Days
+|w/o Park Hpper
+|w/Park Hopper
+
+|2
+|$202.00
+|$257.00
+
+|3
+|$290.00
+|$345.00
+
+|4
+|$325.00
+|$395.00
+
+|5
+|$340.00
+|$409.00
+
+|6
+|$355.00
+|$424.00
+
+|7
+|$370.00
+|$439.00
+
+|8
+|$380.00
+|$449.00
+
+|9
+|$390.00
+|$459.00
+
+|10
+|$400.00
+|$469.00
+
+|===
+
+
+
+435.59 vs. 403.64
