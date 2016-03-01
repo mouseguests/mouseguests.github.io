@@ -1,0 +1,12 @@
+= More magic coming to MyMagic+
+:hp-tags: Disney World, News
+
+Disney is expected to roll out two new features to MyMagic+ this Spring, including one that it seems _everyone_ has been asking for.
+
+Currently, Walt Disney World guests are able to pre-select up to 3 attractions per day for FastPass+ (a benefit that lets you skip past the longer standby lines for many attractions). After having used those initial 3 FastPass+ selections, you can go to one of several kiosks in the parks and choose another FastPass+ option (and again until the day is over for additional FastPass+ choices). But in April guests will be able to use the My Disney Experience mobile app to make those additional selections right where they are at without having to wait in line at a kiosk.
+
+The ability to select additional FastPass+ choices from the My Disney Experience app is a long overdue feature of the app. Many times the lines at the kiosks are longer than the standby lines for some of the attractions. And since you don't even know what's available until you get to a kiosk, you may have waited in line for nothing. We'll certainly be making use of this on our next trip.
+
+Additionally, Disney is expected to roll out StoryMaker, a feature of MyMagic+ that offers even greater interactivity in attractions and meet-n-greets. Using long-range RFID in MagicBands (the same way that on-ride photos are automatically linked to a guests My Disney Experience account now), a ride may know who a person is and where they are visiting from to "interact" with them. You may have noticed that some of the signs in the "Goodbye" room on _"it's a small world"_ have been replaced with what appear to be TV monitors. Presumably, guests riding _"it's a small world"_ will be greeted by name on those monitors as they pass through the "Goodbye" room. Similarly, meet-n-greet characters may greet a guest by name. Imagine walking up to Mickey Mouse and having him greet your personally by name!
+
+What do you think of these new MyMagic+ features? Leave a comment and let us know.
