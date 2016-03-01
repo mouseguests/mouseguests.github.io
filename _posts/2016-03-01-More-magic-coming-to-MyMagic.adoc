@@ -1,6 +1,8 @@
 = More magic coming to MyMagic+
 :hp-tags: Disney World, News
 
+image::covers/MagicBands.jpg[caption="MagicBands"]
+
 Disney is expected to roll out two new features to MyMagic+ this Spring, including one that it seems _everyone_ has been asking for.
 
 Currently, Walt Disney World guests are able to pre-select up to 3 attractions per day for FastPass+ (a benefit that lets you skip past the longer standby lines for many attractions). After having used those initial 3 FastPass+ selections, you can go to one of several kiosks in the parks and choose another FastPass+ option (and again until the day is over for additional FastPass+ choices). But in April guests will be able to use the My Disney Experience mobile app to make those additional selections right where they are at without having to wait in line at a kiosk.
