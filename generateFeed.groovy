@@ -32,7 +32,7 @@ feed.with {
 
 List<SyndEntry> entries = []
 DateFormat df = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss")
-df.setTimeZone(TimeZone.getTimeZone('GMT-6'))
+df.setTimeZone(TimeZone.getTimeZone('GMT-0'))
 
 //  IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT! 
 //
