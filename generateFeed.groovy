@@ -46,6 +46,7 @@ new File('2016').eachFileRecurse(FileType.FILES) { File post ->
 
     SyndContent syndDescription = new SyndContentImpl()
     syndDescription.value = document.getElementsByTag('meta').find { it.attr('property') == 'og:description' }.attr('content')
+    // syndDescription.value = document.getElementsByClass("post-content").first().children().toString();
 
     entry.with {
         title = document.getElementsByTag('meta').find { it.attr('property') == 'og:title' }.attr('content')
