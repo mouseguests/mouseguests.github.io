@@ -1,7 +1,7 @@
 = New Frozen musical opening in Disney California Adventure May 27
 :hp-tags: Disneyland, Disney California Adventure, News
 
-image::covers/FrozenHyperion.jpg
+image::covers/FrozenHyperion.jpg[caption="Frozen - Live at the Hyperion"]
 
 Earlier this year, we sadly said goodbye to _Aladdin: A Musical Spectacular_ in Disney California Adventure's Hyperion Theater. But coming May 27th, you'll be able to see _Frozen - Live at the Hyperion_ an all new musical adaptation of the popular Disney film _Frozen_.
 
