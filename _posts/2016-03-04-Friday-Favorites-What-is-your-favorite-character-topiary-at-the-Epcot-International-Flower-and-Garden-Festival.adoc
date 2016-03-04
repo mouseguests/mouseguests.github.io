@@ -1,7 +1,7 @@
 = Friday Favorites! What is your favorite character topiary at the Epcot International Flower & Garden Festival?
 :hp-tags: Friday Favorites, Disney World, Epcot
 
-image::covers/FF_Topiaries_sm.jpg[caption="Topiaries at the Epcot International Flower and Garden Festival"]
+image::covers/FF_Topiaries_sm.png[caption="Topiaries at the Epcot International Flower and Garden Festival"]
 
 The weather is getting warmer, the days are getting longer, and the trees and flowers are coming to life. That can only mean one thing: It’s time for the Epcot International Flower & Garden Festival! One of our favorite things about the Flower & Garden Festival is all of the topiaries spread around Epcot that resemble Disney characters. This year, the festival runs for 3 months and there are over 3 dozen topiaries, including a brand new Ranger Mickey topiary to celebrate the centennial anniversary of the National Parks Service!
 
