@@ -1,7 +1,7 @@
 = Purple MagicBands now a choice in MyMagic+
 :hp-tags: Disney World, MagicBands, News
 
-image::covers/PurpleMagicBand.jpg[caption="Purple Magic Band"]
+image::covers/PurpleMagicBand.png[caption="Purple Magic Band"]
 
 Purple MagicBand fans rejoice! Purple is now an option in MyMagic+!
 
