@@ -1,5 +1,5 @@
 = Be an armchair imagineer in "Disney Magic Kingdoms" coming soon!
 :hp-tags: Disney World, Disneyland, Games, News
 
-video::TXDtJVE-eQk[youtube]
+video::TXDtJVE-eQk[youtube, width=500]
 
