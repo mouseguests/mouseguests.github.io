@@ -1,9 +1,11 @@
 = Be an armchair imagineer in "Disney Magic Kingdoms" coming soon!
 :hp-tags: Disney World, Disneyland, Games, News
 
-video::TXDtJVE-eQk[youtube, width=500, height=281]
+image::covers/DisneyMagicKingdoms.png[caption="Disney Magic Kingdoms"]
 
 If you've ever wanted to build your own Disney theme park, your chance is coming soon. Disney Games released a new trailer video for "Disney Magic Kingdoms"!
+
+video::TXDtJVE-eQk[youtube, width=500, height=281]
 
 This park-building game was announced at last year's D23, but there has been nothing but silence about the game since then. With the release of this trailer, we're hoping to be building our own Magic Kingdom on our mobile devices very soon. This looks like a lot of fun!
 
