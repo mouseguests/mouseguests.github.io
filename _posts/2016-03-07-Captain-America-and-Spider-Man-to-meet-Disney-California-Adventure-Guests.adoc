@@ -1,5 +1,5 @@
 = Captain America and Spider Man to meet Disney California Adventure Guests
-:hp-tags: Disneyland, Disney California Adventure, News
+:hp-tags: Disneyland, Disney California Adventure, Meet-n-Greet, News
 
 image::covers/CaptainAmerica.jpg[caption="Captain America "]
 
