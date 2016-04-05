@@ -1,5 +1,5 @@
 = Summer Awakens at Walt Disney World
-:hp-tags: Disney World, Planning, Star Wars, Frozen
+:hp-tags: Disney World, Star Wars, Frozen, trip planning
 
 image::covers/LaunchBay.jpg[caption="Star Wars Launch Bay in Disney's Hollywood Studios"]
 
