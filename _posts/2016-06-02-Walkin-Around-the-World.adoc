@@ -1,7 +1,7 @@
 = Walkin' Around the World
 :hp-tags: Disney World, walking, trip report
 
-image::covers/FoF_Goofy.jpg[]
+image::covers/FoF_Goofy.jpg[caption="Goofy in Disney's Festival of Fantasy Parade"]
 
 Back in February, I shared our walking trip report for our December trip to Walt Disney World. I reported that on that 7 day trip, we walked over 68 miles and averaged 9.74 miles per day. Today, I want to update you on our most recent trip and take a look at how many miles we put in.
 
