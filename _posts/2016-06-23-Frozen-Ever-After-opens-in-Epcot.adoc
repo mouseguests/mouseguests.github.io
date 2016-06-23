@@ -1,7 +1,7 @@
 = Frozen Ever After opens in Epcot
 :hp-tags: Disney World, Epcot, News
 
-TODO: Add image here
+image::covers/FrozenEverAfterDis.jpg[caption="Frozen Ever After"]
 
 Earlier this week, _Frozen Ever After_ opened in Epcot's Norway Pavilion. With the continued popularity of _Frozen_, this new attraction was inundated with long lines of people waiting to see how the kingdom of Arendelle is represented in this new dark ride.
 
