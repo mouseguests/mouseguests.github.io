@@ -1,5 +1,5 @@
 = Frozen Ever After opens in Epcot
-:hp-tags: Disney World, Epcot, News
+:hp-tags: Disney World, Epcot, News, Opinion
 
 image::covers/FrozenEverAfterDis.jpg[caption="Frozen Ever After"]
 
