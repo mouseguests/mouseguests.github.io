@@ -1,5 +1,6 @@
 = BREAKING NEWS: Super premium parking coming to the Seven Seas Lagoon
 :hp-tags: Disney World, Magic Kingdom, Newz
+:hp-image:covers/ParkingTram.jpg
 
 image::covers/ParkingTram.jpg[caption="Disney parking lot tram"]
 
