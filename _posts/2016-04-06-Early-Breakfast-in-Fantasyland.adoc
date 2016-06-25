@@ -1,5 +1,6 @@
 = Early Breakfast in Fantasyland
 :hp-tags: Disney World, Magic Kingdom, News
+:hp-image: covers/7DMT_Doc.jpg
 
 image::covers/7DMT_Doc.jpg[caption="Doc in the Seven Dwarfs Mine Train"]
 
