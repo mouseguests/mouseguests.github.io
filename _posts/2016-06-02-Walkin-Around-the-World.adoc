@@ -1,4 +1,5 @@
 = Walkin' Around the World
+:hp-image: covers/FoF_Goofy.jpg
 :hp-tags: Disney World, walking, trip report
 
 image::covers/FoF_Goofy.jpg[caption="Goofy in Disney's Festival of Fantasy Parade"]
