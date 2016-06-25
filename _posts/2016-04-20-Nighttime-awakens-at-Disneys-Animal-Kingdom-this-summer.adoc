@@ -1,5 +1,6 @@
 = Nighttime awakens at Disney's Animal Kingdom this summer
 :hp-tags: Disney World, Animal Kingdom, News
+:hp-image: covers/TreeOfLifeAwakens.jpg
 
 image::covers/TreeOfLifeAwakens.jpg[caption="Nighttime Awakenings at the Tree of Life"]
 
