@@ -1,5 +1,6 @@
 = Eat free at Disney World in 2016!
 :hp-tags: Disney World, News, Dining
+:hp-image: covers/TonysDessert.jpg
 
 image::covers/TonysDessert.jpg[caption="Dessert at Tony's Town Square Restaurant"]
 
