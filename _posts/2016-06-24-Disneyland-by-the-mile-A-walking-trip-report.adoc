@@ -1,4 +1,5 @@
 = Disneyland by the mile: A walking trip report
+:hp-image:covers/Soundsational_Genie.jpg
 :hp-tags: Disneyland, walking, trip report
 
 image::covers/Soundsational_Genie.jpg[caption="Genie marching in Mickey's Soundsational Parade"]
