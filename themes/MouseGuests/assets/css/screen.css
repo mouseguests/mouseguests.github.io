@@ -1773,7 +1773,21 @@ body:not(.post-template) .post-title {
 }
 
 
+
+div.articleList article:nth-child(even) img {
+  margin-right:15px;
+  float:left;
+  max-width:200px;
+}
+
+div.articleList article:nth-child(odd) img {
+  margin-left:15px;
+  float:right;
+  max-width:200px;
+}
+
+
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
-   below this point, or it will probably fuck everything up.
+   below this point, or it will probably muck everything up.
    ========================================================================== */
