@@ -1,5 +1,6 @@
 = BREAKING: Disney to offer "Third Shift Magic Hours" after-after-hours event
 :hp-tags: Disney World, Magic Kingdom, Newz
+:hp-image: covers/NightCastle.jpg
 
 image::covers/NightCastle.jpg[caption="Cinderella Castle at night"]
 
