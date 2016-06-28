@@ -6,7 +6,8 @@
     "author": "author.hbs",
     "post": "post.hbs",
     "page": "page.hbs",
-    "tag": "tag.hbs"
+    "tag": "tag.hbs",
+    "bookatrip": "bookatrip.hbs"
   },
   "version":"1.0.0"
 }
